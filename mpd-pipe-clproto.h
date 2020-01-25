@@ -1,3 +1,7 @@
+/*
+Tools for talking to the MPD API.
+*/
+
 #pragma once
 
 #include "tcp-common.h"

@@ -1,3 +1,9 @@
+/*
+Dynamic byte buffer based on a linked list.
+
+Ultimately not used in the project.
+*/
+
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdio.h>

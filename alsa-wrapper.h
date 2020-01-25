@@ -1,3 +1,10 @@
+/*
+Tools for abstracting away the ALSA interaction,
+which is currently done through aplay.
+
+Should probably migrate to use the actual ALSA library.
+*/
+
 #include "popen-bidir.h"
 
 #include <string.h>

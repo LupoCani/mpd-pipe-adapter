@@ -1,3 +1,8 @@
+/*
+Tools abstract away some of the TCP boilerplate code,
+and some of the poll use.
+*/
+
 #pragma once
 
 #include "byte-utils.h"

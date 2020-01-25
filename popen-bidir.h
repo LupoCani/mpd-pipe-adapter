@@ -1,3 +1,8 @@
+/*
+Simple reimplementation of popen() that allows bidirectional commication using
+several pipes.
+*/
+
 #pragma once
 
 #include <unistd.h>

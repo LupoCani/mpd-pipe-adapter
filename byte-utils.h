@@ -1,3 +1,7 @@
+/*
+Tools for converting data to raw bytes and back.
+*/
+
 #pragma once
 #include <stdint.h>
 #include <stdio.h>

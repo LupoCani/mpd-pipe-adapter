@@ -1,3 +1,7 @@
+/*
+Tools to format and interpret the data sequences sent over the stream.
+*/
+
 #pragma once
 
 #include "format-name-tools.h"
